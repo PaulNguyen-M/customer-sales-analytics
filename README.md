@@ -40,7 +40,7 @@ Dashboard theo dõi:
 * Doanh thu theo Segment
 * Top khách hàng doanh thu cao
 * Xu hướng khách hàng theo tháng
-![Customer Analytics Dashboard](./assets/customer_dashboard.png)
+
 
 ### Product Analytics Dashboard
 
@@ -51,7 +51,7 @@ Dashboard theo dõi:
 * Margin theo sản phẩm
 * Revenue Share theo Segment
 * Hiệu quả lợi nhuận theo nhóm khách hàng
-![Customer Analytics Dashboard](./assets/product_dashboard.png)
+
 
 ## Cấu Trúc Project
 
