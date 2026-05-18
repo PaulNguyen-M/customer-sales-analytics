@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+.runtime_deps/
+venv/
+env/
+.pip_tmp/
+.pip_tmp2/
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# OS
+.DS_Store
+Thumbs.db
